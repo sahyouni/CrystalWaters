@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrystalWaters.iOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2eecf978e38759d9bcfd6f81401ea8f9e2d0862")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba11b05a813c06ce022b0102f1238f7c890f1c4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrystalWaters.iOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrystalWaters.iOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -20,8 +20,6 @@
 /Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.AssemblyInfo.cs
 /Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.csproj.CoreCompileInputs.cache
 /Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.sourcelink.json
-/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.csproj.Fody.CopyLocal.cache
-/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.csproj.Fody.RuntimeCopyLocal.cache
 /Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/obj/Debug/net8.0/XamlC.stamp
 /Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.dll
 /Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/obj/Debug/net8.0/refint/CrystalWaters.dll

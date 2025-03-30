@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CrystalWaters.iOS.app/CrystalWaters.iOS">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>CrystalWaters.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CrystalWaters.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS/obj/Debug/net8.0-ios/iossimulator-arm64/device-builds/iphone17.3-18.1/mtouch-symbols.list</SymbolFile>
+      <DSymName>CrystalWaters.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

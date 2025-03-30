@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS/bin/Debug/net8.0-ios/iossimulator-arm64/device-builds/iphone17.3-18.1/CrystalWaters.iOS.app/libmono-component-marshal-ilgen.dylib

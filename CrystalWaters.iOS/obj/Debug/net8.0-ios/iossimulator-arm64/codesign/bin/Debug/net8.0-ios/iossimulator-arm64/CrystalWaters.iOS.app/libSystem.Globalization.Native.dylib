@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS/bin/Debug/net8.0-ios/iossimulator-arm64/CrystalWaters.iOS.app/libSystem.Globalization.Native.dylib
