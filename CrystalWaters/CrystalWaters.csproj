@@ -34,4 +34,13 @@
         <PackageReference Include="Realm" Version="20.1.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include=".idea\.idea.CrystalWaters.dir\.idea\.gitignore" />
+      <Content Include=".idea\.idea.CrystalWaters.dir\.idea\encodings.xml" />
+      <Content Include=".idea\.idea.CrystalWaters.dir\.idea\indexLayout.xml" />
+      <Content Include=".idea\.idea.CrystalWaters.dir\.idea\projectSettingsUpdater.xml" />
+      <Content Include=".idea\.idea.CrystalWaters.dir\.idea\vcs.xml" />
+      <Content Include=".idea\.idea.CrystalWaters.dir\.idea\workspace.xml" />
+    </ItemGroup>
+
 </Project>
