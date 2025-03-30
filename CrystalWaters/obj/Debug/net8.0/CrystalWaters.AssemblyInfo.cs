@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrystalWaters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b2b8f2e187ad4842a7b6db5e8e1b1c63d771bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrystalWaters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrystalWaters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

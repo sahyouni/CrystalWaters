@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lYo2o3qMnoU=",
+  "dgSpecHash": "XFqDkusGuNk=",
   "success": true,
-  "projectFilePath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj",
+  "projectFilePath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/rami.sahyouni/.nuget/packages/communitytoolkit.mvvm/8.4.0/communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "/Users/rami.sahyouni/.nuget/packages/fody/6.9.1/fody.6.9.1.nupkg.sha512",

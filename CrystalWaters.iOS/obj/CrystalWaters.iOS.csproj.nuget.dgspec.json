@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj": {}
+    "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj": {}
   },
   "projects": {
-    "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj": {
+    "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj",
+        "projectUniqueName": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj",
         "projectName": "CrystalWaters.iOS",
-        "projectPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj",
+        "projectPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS/CrystalWaters.iOS.csproj",
         "packagesPath": "/Users/rami.sahyouni/.nuget/packages/",
-        "outputPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.iOS/obj/",
+        "outputPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters.iOS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rami.sahyouni/.nuget/NuGet/NuGet.Config"
@@ -28,8 +28,8 @@
           "net8.0-ios18.0": {
             "targetAlias": "net8.0-ios",
             "projectReferences": {
-              "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/CrystalWaters.csproj": {
-                "projectPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/CrystalWaters.csproj"
+              "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.csproj": {
+                "projectPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.csproj"
               }
             }
           }
@@ -115,14 +115,14 @@
         }
       }
     },
-    "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/CrystalWaters.csproj": {
+    "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/CrystalWaters.csproj",
+        "projectUniqueName": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.csproj",
         "projectName": "CrystalWaters",
-        "projectPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/CrystalWaters.csproj",
+        "projectPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters.csproj",
         "packagesPath": "/Users/rami.sahyouni/.nuget/packages/",
-        "outputPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/",
+        "outputPath": "/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rami.sahyouni/.nuget/NuGet/NuGet.Config"
