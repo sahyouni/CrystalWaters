@@ -9,6 +9,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <PropertyGroup>
+        <UseHotReload>true</UseHotReload>
+        <HotReloadEnabled>true</HotReloadEnabled>
+    </PropertyGroup>
+
     <ItemGroup>
         <!-- Images -->
         <MauiImage Include="Resources\Images\*"/>
