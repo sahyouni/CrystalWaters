@@ -1,0 +1,13 @@
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/bin/Debug/net8.0/CrystalWaters.deps.json
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/bin/Debug/net8.0/CrystalWaters.dll
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/bin/Debug/net8.0/CrystalWaters.pdb
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.csproj.AssemblyReference.cache
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.AssemblyInfoInputs.cache
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.AssemblyInfo.cs
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.csproj.CoreCompileInputs.cache
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/XamlC.stamp
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.dll
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/refint/CrystalWaters.dll
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/CrystalWaters.pdb
+/Users/rami.sahyouni/source/CrystalWaters/CrystalWaters/CrystalWaters/obj/Debug/net8.0/ref/CrystalWaters.dll
