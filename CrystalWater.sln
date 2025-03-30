@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalWaters", "CrystalWaters\CrystalWaters.csproj", "{2D907B6F-7D77-43DE-A01D-117A10507F5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalWaters.iOS", "CrystalWaters.iOS\CrystalWaters.iOS.csproj", "{0D08C48B-DBEC-44F9-B872-6F98BE09F31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D907B6F-7D77-43DE-A01D-117A10507F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D907B6F-7D77-43DE-A01D-117A10507F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D907B6F-7D77-43DE-A01D-117A10507F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D907B6F-7D77-43DE-A01D-117A10507F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D08C48B-DBEC-44F9-B872-6F98BE09F31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D08C48B-DBEC-44F9-B872-6F98BE09F31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D08C48B-DBEC-44F9-B872-6F98BE09F31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D08C48B-DBEC-44F9-B872-6F98BE09F31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
